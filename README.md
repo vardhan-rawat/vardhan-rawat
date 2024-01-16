@@ -55,9 +55,9 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/vardhan-singh-rawat-58939a260"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-  <a href="https://www.instagram.com/vardhan_rawat?utm_source=qr&igsh=MXNzdXBlM3dzM2Noag=="<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
-  <a href="mailto:vardhanrawat1@gmail.com"<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
+  <a href="https://www.linkedin.com/in/vardhan-singh-rawat-58939a260"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
+  <a href="https://www.instagram.com/vardhan_rawat?utm_source=qr&igsh=MXNzdXBlM3dzM2Noag=="><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" /></a>
+  <a href="mailto:vardhanrawat1@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /></a>
 </div>
 
 ###
