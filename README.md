@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">My name is Vardhan Singh Rawat</h2>
+<h1 align="left">My name is Vardhan Singh Rawat</h1>
 
 ###
 
