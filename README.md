@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm a backend developer and AI/ML enthusiast.<br><br>📚 CS sophomore at Thapar Institute of Engineering and technology.<br>🤖 Technophile</p>
+<h3 align="left">I'm a backend developer and AI/ML enthusiast.<br><br>📚 CS sophomore at Thapar Institute of Engineering and technology.<br>🤖 Technophile</h3>
 
 ###
 
